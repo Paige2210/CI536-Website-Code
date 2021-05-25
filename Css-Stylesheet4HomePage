@@ -6,12 +6,12 @@
 body {
   font-family: "Times New Roman", Times, serif;
   margin: 0;
-  background-color: #fecfcc;
+  background-color: #EEEEEE;
 }
 
 
 .header {
-  background: #EF98EE ;
+  background: #211e21 ;
   padding: 60px;
   text-align: center;
   color: white;
@@ -25,7 +25,7 @@ body {
 
 .navbar {
     
-  background-color: #48D1CC;
+  background-color: #a3d2b5;
   overflow: hidden;
 
 }
@@ -64,10 +64,11 @@ body {
 
 .side {
     
-  background-color: #EEEEEE;
+  background-color: #211e21;
   padding: 10px;
   -ms-flex: 30%; /* IE10 */
   flex: 30%;
+  color: white;
 
 }
 
@@ -88,7 +89,7 @@ body {
 .footer {
   padding: 25px;
   text-align: center;
-  background: #48D1CC;
+  background: #a3d2b5;
 }
 
 @media screen and (max-width: 400px) {
