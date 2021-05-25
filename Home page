@@ -23,8 +23,8 @@
 <div class="row">
     <div class="side">
     <h2>About the website</h2>
-    <div class ="img" style="height:180px;"> <img src="photos/fb.jpg" height="150" alt="gameMarketplace"> </div>
-    <p>This website was created by students in order to able sell the products on the website ..</p>
+    <div class ="img" style="height:180px;"> <img src="photos/homeMain.jpg" height="150" alt="gameMarketplace"> </div>
+    <p>This website was created by students in order to able sell the products on the website.</p>
        
     <ol>
 <!--Ordered (numbered) list -->
@@ -34,7 +34,7 @@
 	<!--Nested unordered list -->
 	<li>Sony's products</li>
 	<br>
-	<div class ="img" style="height:180px;"> <img src="photos/sony1.jpg" height="150" alt="sony"> </div>
+	<div class ="img" style="height:180px;"> <img src="photos/sony2.jpg" height="150" alt="sony"> </div>
 	<br><br>
 	<li>Apple's products</li>
 	<br>
@@ -44,14 +44,14 @@
 	</div> 
 	
   <div class="main">
-    <h2>THE WEBSITE FEATURES (Sony):</h2>
+    <h2>This website features products from Sony:</h2>
     <br><br>
-    <div class ="img" style="height:250px;"> <img src="photos/soso.jpg" height="200" alt="sony w"> </div>
-    <p>Discover the hottest new products from Sony and in order to enjoy more on  technolgy life, Check out the website weekly in order to see our specials and to make sure you do not to miss it!</p>
+    <div class ="img" style="height:250px;"> <img src="photos/sony.jpg" height="200" alt="sony w"> </div>
+    <p>Discover the hottest new products from Sony and in order to enjoy more on  technolgy life, check out the website weekly in order to see our special offers and to make sure you do not to miss it!</p>
     <br>
-    <h2>THE WEBSITE FEATURES (Apple):</h2>
-    <div class ="img" style="height:250px;"> <img src="photos/popo.jpg" height="200" alt="apple w"> </div>
-    <p>Discover the hottest new proudcts from Apple and in order to enjoy more on  technolgy life and  Check out the website weekly in order to see our specials in order not to miss it.</p>
+    <h2>This website features products from Apple:</h2>
+    <div class ="img" style="height:250px;"> <img src="photos/apple2.jpg" height="200" alt="apple w"> </div>
+    <p>Discover the hottest new proudcts from Apple and in order to enjoy more on  technolgy life, check out the website weekly in order to see our special offers and to make sure you do not to miss it!</p>
     </div>
 </div>
 
