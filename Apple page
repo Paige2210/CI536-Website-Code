@@ -34,5 +34,11 @@
     <li>iPhone 12 Pro Max ~ Beginning at £900</li>
     </div>
     
+    <div class="footer">
+
+		<footer>
+			<small>&copy; 2021,Student. <a href="mailto:sayedo77.98@gmail.com">email Student.</a></small>
+		</footer>
+</div>
 </body>
 </html>
