@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Sony Products</title>
-<link href="css/stylesheet2.css" rel="stylesheet /">
+<link rel="stylesheet" href="css/stylesheet2.css">
 </head>
 <body>
 <div class="navbar">
@@ -28,5 +28,12 @@
     <li>Xperia XZ3 ~ Beginning at £250</li>
     <br>
     </div>
+    
+    <div class="footer">
+
+		<footer>
+			<small>&copy; 2021,Student. <a href="mailto:sayedo77.98@gmail.com">email Student.</a></small>
+		</footer>
+</div>
 </body>
 </html>
